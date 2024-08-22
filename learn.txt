@@ -6,6 +6,3 @@ dates under mmddyy format.
 230824
 - Reread - The C programming languge by dennis Ritchie. 
 - Programming in C.
-
-
-
